@@ -1,0 +1,177 @@
+# Kazdy modul: enabled + disabled-worlds (swiaty/areny, w ktorych modul NIE dziala)
+modules:
+  spawn:
+    enabled: true
+    disabled-worlds: []
+  backups:
+    enabled: true
+    disabled-worlds: []
+  eventowki:
+    enabled: true
+    disabled-worlds: []
+  sklep:
+    enabled: true
+    disabled-worlds: []
+  patrons:
+    enabled: true
+    disabled-worlds: []
+  kosz:
+    enabled: true
+    disabled-worlds: []
+  kity:
+    enabled: true
+    disabled-worlds: []
+  skrzynki:
+    enabled: true
+    disabled-worlds: []
+  ekonomia:
+    enabled: true
+    disabled-worlds: []
+  fakesloty:
+    enabled: true
+    disabled-worlds: []
+  enderchests:
+    enabled: true
+    disabled-worlds: []
+  bossbar:
+    enabled: true
+    disabled-worlds: []
+  tools:
+    enabled: true
+    disabled-worlds: []
+  klany:
+    enabled: true
+    disabled-worlds: []
+  bany:
+    enabled: true
+    disabled-worlds: []
+  rynek:
+    enabled: true
+    disabled-worlds: []
+  perki:
+    enabled: true
+    disabled-worlds: []
+  hity:
+    enabled: true
+    disabled-worlds: []
+  ulepsz:
+    enabled: true
+    disabled-worlds: []
+  osiagniecia:
+    enabled: true
+    disabled-worlds: []
+  strefa_afk:
+    enabled: true
+    disabled-worlds: []
+  strefa_keepinventory:
+    enabled: true
+    disabled-worlds: []
+  antylogout:
+    enabled: true
+    disabled-worlds: []
+  wymiana:
+    enabled: true
+    disabled-worlds: []
+  coinflip:
+    enabled: true
+    disabled-worlds: []
+  sprawdzanie:
+    enabled: true
+    disabled-worlds: []
+  tryb_tworcy:
+    enabled: true
+    disabled-worlds: []
+  portfel:
+    enabled: true
+    disabled-worlds: []
+  warpy:
+    enabled: true
+    disabled-worlds: []
+  czyszczenie:
+    enabled: true
+    disabled-worlds: []
+  zonebox:
+    enabled: true
+    disabled-worlds: []
+  generatory:
+    enabled: true
+    disabled-worlds: []
+  drop2inv:
+    enabled: true
+    disabled-worlds: []
+  automatyczne_wiadomosci:
+    enabled: true
+    disabled-worlds: []
+  kody:
+    enabled: true
+    disabled-worlds: []
+  szafa:
+    enabled: true
+    disabled-worlds: []
+  iplimit:
+    enabled: true
+    disabled-worlds: []
+  shulkery:
+    enabled: true
+    disabled-worlds: []
+  incognito:
+    enabled: true
+    disabled-worlds: []
+  pomoc:
+    enabled: true
+    disabled-worlds: []
+  broadcast:
+    enabled: true
+    disabled-worlds: []
+  msg:
+    enabled: true
+    disabled-worlds: []
+  helpop:
+    enabled: true
+    disabled-worlds: []
+  pay:
+    enabled: true
+    disabled-worlds: []
+  czeki:
+    enabled: true
+    disabled-worlds: []
+  skup:
+    enabled: true
+    disabled-worlds: []
+  itemshop:
+    enabled: true
+    disabled-worlds: []
+  powitanie:
+    enabled: true
+    disabled-worlds: []
+  naprawa:
+    enabled: true
+    disabled-worlds: []
+  blokada_komend:
+    enabled: true
+    disabled-worlds: []
+  discord_rewards:
+    enabled: true
+    disabled-worlds: []
+  customitems:
+    enabled: true
+    disabled-worlds: []
+  placeholders:
+    enabled: true
+    disabled-worlds: []
+# --- ustawienia modulow ---
+settings:
+  antylogout-sekundy: 15
+  powitanie: "&aWitaj &e%player% &ana serwerze!"
+  pomoc:
+    - "&6/spawn &7- teleport na spawn"
+    - "&6/warp <nazwa> &7- warpy"
+    - "&6/msg <gracz> <tekst> &7- prywatna wiadomosc"
+    - "&6/pay <gracz> <kwota> &7- przelew"
+    - "&6/kosz &7- smietnik"
+  blokada_komend:
+    - "/pl"
+    - "/plugins"
+    - "/bukkit:"
+    - "/minecraft:"
+  ekonomia-start: 100.0

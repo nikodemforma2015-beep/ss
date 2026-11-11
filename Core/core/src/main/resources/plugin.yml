@@ -1,0 +1,5 @@
+name: Core
+version: 1.0.0
+main: pl.core.CorePlugin
+api-version: '1.21'
+authors: [you]
